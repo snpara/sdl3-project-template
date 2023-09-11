@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.27)
 
 project(
-    "OpenGLTemplate"
+    "SDL3Template"
     VERSION 1.0.0
     LANGUAGES C CXX)
 
