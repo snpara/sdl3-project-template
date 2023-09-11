@@ -20,6 +20,8 @@ This is a template for SDL3 projects. What you get:
 ├── CMakeLists.txt
 ├── app
 │   ├── CMakesLists.txt
+│   ├── Window.hpp
+│   ├── Window.cpp
 │   └── main.cpp
 ├── cmake
 │   └── cmake modules
