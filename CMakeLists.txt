@@ -57,6 +57,7 @@ endif()
 # EXTERNAL LIBRARIES
 message(STATUS "Using CPM")
 include(CPM)
+cpmaddpackage("gh:libsdl-org/SDL#main")
 
 # SUB DIRECTORIES
 
